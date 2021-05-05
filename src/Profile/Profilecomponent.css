@@ -1,0 +1,41 @@
+.profile {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image:url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.profile h1 {
+  font-size: 40px;
+}
+
+.profile h2 {
+  font-size: 40px;
+}
+.profile h3 {
+  font-size: 40px;
+}
+
+.test {
+  font-size: 50px;
+  font-weight: bold;
+  color:blue;
+}
+
+.btn{
+  
+  cursor: pointer;
+  background: darkblue;
+  color:gray;
+  font-size: 30px;
+
+ 
+}
+
+
+
